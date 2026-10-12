@@ -1,0 +1,6 @@
+# Binarios pesados y temporales
+ffmpeg
+ffmpeg.zip
+*.cmd
+__pycache__/
+.DS_Store
